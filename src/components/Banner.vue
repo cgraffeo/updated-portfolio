@@ -27,11 +27,12 @@
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
+  margin-bottom: 0
 }
 .cover{
   background-color: rgba(0 , 0, 0, 0.7);
   /* padding: 4rem 2rem; */
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
 }
 .container{
   height: 100vh;
